@@ -40,3 +40,16 @@ li {
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
+button {
+    background: #d63384;
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #8e44ad;
+}
