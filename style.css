@@ -53,3 +53,11 @@ button {
 button:hover {
     background: #8e44ad;
 }
+footer {
+    text-align: center;
+    background: #d63384;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
