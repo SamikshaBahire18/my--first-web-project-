@@ -66,3 +66,10 @@ footer {
     box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
     transition: 0.3s;
 }
+.card li {
+    background: #fce4ec;
+    margin: 10px 0;
+    padding: 10px 15px;
+    border-radius: 12px;
+    list-style: none;
+}
