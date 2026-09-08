@@ -1,4 +1,4 @@
-body {
+iibody {
     font-family: Arial, sans-serif;
     background: #fdf6ff;
     color: #333;
@@ -146,3 +146,16 @@ h1 {
     text-align: center;
 }
 
+.intro {
+    background: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.intro h2 {
+    color: #d63384;
+    border-bottom: none;
+}
