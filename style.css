@@ -121,3 +121,19 @@ h1 {
     margin-bottom: 15px;
     letter-spacing: 1px;
 }
+.project-btn {
+    display: inline-block;
+    text-decoration: none;
+    background: #d63384;
+    color: white;
+    padding: 12px 22px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.project-btn:hover {
+    background: #8e44ad;
+}
+
