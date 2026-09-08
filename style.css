@@ -191,3 +191,7 @@ h1 {
     color: #d63384;
     border-bottom: none;
 }
+.profile-icon {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
