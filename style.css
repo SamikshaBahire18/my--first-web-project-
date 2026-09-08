@@ -159,3 +159,22 @@ h1 {
     color: #d63384;
     border-bottom: none;
 }
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    nav a {
+        padding: 7px 10px;
+        margin: 3px;
+        font-size: 14px;
+    }
+
+    .card {
+        padding: 15px;
+    }
+}
