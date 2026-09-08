@@ -136,4 +136,13 @@ h1 {
 .project-btn:hover {
     background: #8e44ad;
 }
+#projects p {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#projects {
+    text-align: center;
+}
 
