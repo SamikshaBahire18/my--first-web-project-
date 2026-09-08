@@ -116,3 +116,8 @@ nav a:hover {
 html {
     scroll-behavior: smooth;
 }
+h1 {
+    font-size: 32px;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+}
